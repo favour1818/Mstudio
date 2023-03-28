@@ -74,6 +74,7 @@ span{
 }
 #section-btn-group{
     display: flex;
+    padding-top: 1rem;
 }
 .section-btn{
     margin: 0px;
